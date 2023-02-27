@@ -1,0 +1,575 @@
+[{
+    "id": "t2sseWHbfS9Qk87exNGcAw",
+    "name": "Gate 1",
+    "position": {
+        "x": 219.43000057648112,
+        "y": 316.4399999901907
+    }
+}, {
+    "id": "hn1fzqXq7G5euaXvEYG4K9",
+    "name": "Gate 3",
+    "position": {
+        "x": 258.8300006568632,
+        "y": 1083.6799998613317
+    }
+}, {
+    "id": "sXS4RJZKExUGPdUuq3aBhV",
+    "name": "Gate 5",
+    "position": {
+        "x": 1511.4599998969609,
+        "y": 345.03000034337987
+    }
+}, {
+    "id": "phTF3H6YuLEdUhoMRDMqRy",
+    "name": "Gate 7",
+    "position": {
+        "x": 830.5200007908511,
+        "y": 352.7200004138086
+    }
+}, {
+    "id": "3c41Hg9TTcz1kJstMSP2Dj",
+    "name": "Ducati ",
+    "position": {
+        "x": 578.2900007821694,
+        "y": 435.53999946038044
+    }
+}, {
+    "id": "3UdmrS3A5b2nUw1rahN5b9",
+    "name": "GP Expo",
+    "position": {
+        "x": 692.3800007199741,
+        "y": 478.32999966957533
+    }
+}, {
+    "id": "4aq5ejYQ83CKwwAFEzi8yS",
+    "name": "GP Expo",
+    "position": {
+        "x": 609.3899991001479,
+        "y": 449.98000005782814
+    }
+}, {
+    "id": "qJWbkUQpAb3drbEveLXA3W",
+    "name": "Red Bull",
+    "position": {
+        "x": 567.5000005137368,
+        "y": 430.9000003026096
+    }
+}, {
+    "id": "pnD15eXLci3cDRj21fZwC4",
+    "name": "Expo Cafe",
+    "position": {
+        "x": 703.6200003639424,
+        "y": 482.3200001256428
+    }
+}, {
+    "id": "6zmcPrX2866U6YUAAT4zK3",
+    "name": "First Aid",
+    "position": {
+        "x": 823.2800000909599,
+        "y": 638.8099993834122
+    }
+}, {
+    "id": "nnUEmqFDV7oPinYP58dg7f",
+    "name": "Sensory Room",
+    "position": {
+        "x": 882.9100007427893,
+        "y": 503.87000041097303
+    }
+}, {
+    "id": "5vVbS5PMvsekQVRmKRJVey",
+    "name": "Viewing Mound",
+    "position": {
+        "x": 969.6500002234308,
+        "y": 1108.549999779534
+    }
+}, {
+    "id": "urMw1i2LUnkPDiaggvcGE2",
+    "name": "Viewing Mound",
+    "position": {
+        "x": 1140.2199996678823,
+        "y": 1093.2799995990847
+    }
+}, {
+    "id": "b6gnomsDotpoib3hT13XuG",
+    "name": "Viewing Mound",
+    "position": {
+        "x": 683.019999733869,
+        "y": 1075.5099996088852
+    }
+}, {
+    "id": "ub2asubRYLYzKDSHxeqqCx",
+    "name": "Champions Cafe",
+    "position": {
+        "x": 897.849999134207,
+        "y": 504.65999965358975
+    }
+}, {
+    "id": "24cCUYLLQtmpYhtPmcMTun",
+    "name": "Champions Club",
+    "position": {
+        "x": 817.7199997566579,
+        "y": 837.4400001486732
+    }
+}, {
+    "id": "1JP7FJdrP5XagBzbGQb1Gv",
+    "name": "MotoGP Paddock",
+    "position": {
+        "x": 638.5999993053522,
+        "y": 593.060000003075
+    }
+}, {
+    "id": "nyj5Jy7z9H72cjgtHxn4RH",
+    "name": "The Clubhouse ",
+    "position": {
+        "x": 257.55000055344385,
+        "y": 844.9999994380681
+    }
+}, {
+    "id": "s3qRcnbGWD5q1bWYSwxdhu",
+    "name": "Addikted To Ink",
+    "position": {
+        "x": 595.5199993873423,
+        "y": 419.5300001375789
+    }
+}, {
+    "id": "bna19tB9JGmk9vz3hueVqB",
+    "name": "Doohan Pavilion",
+    "position": {
+        "x": 1623.5200001591832,
+        "y": 436.70999998535257
+    }
+}, {
+    "id": "bfg21QaTAwvGBqYeFQe75P",
+    "name": "Fan Forum Stage",
+    "position": {
+        "x": 579.8200001300395,
+        "y": 414.87000015918244
+    }
+}, {
+    "id": "e13nwBYvsn8qnVsx2PkxgJ",
+    "name": "INEOS Grenadier",
+    "position": {
+        "x": 591.0599997740077,
+        "y": 433.6700001334407
+    }
+}, {
+    "id": "s6621SVffgvKYT9HHBAuxW",
+    "name": "Lukey’s Lawn ",
+    "position": {
+        "x": 222.80000076257053,
+        "y": 1027.409999418724
+    }
+}, {
+    "id": "wcoZBupaMmSE38PyCj51m1",
+    "name": "Public Bathrooms",
+    "position": {
+        "x": 234.99000010978673,
+        "y": 923.6399999891274
+    }
+}, {
+    "id": "dyZ2y9Qy8SuVsJ15aTZ9mb",
+    "name": "Public Bathrooms",
+    "position": {
+        "x": 640.170000150488,
+        "y": 614.5299996076357
+    }
+}, {
+    "id": "g5DKCXgY3hfwbCbJfNdD7U",
+    "name": "Public Bathrooms",
+    "position": {
+        "x": 1107.2800005116844,
+        "y": 1115.560000567754
+    }
+}, {
+    "id": "ocyDXfLPfoQnAc4oco7ZB7",
+    "name": "Stoner Pavilion ",
+    "position": {
+        "x": 287.559999444177,
+        "y": 332.2400004529219
+    }
+}, {
+    "id": "1o1z2desjudo1XLzoJ4bdq",
+    "name": "Public Bathrooms ",
+    "position": {
+        "x": 819.0999999256197,
+        "y": 465.71999935954904
+    }
+}, {
+    "id": "9L9PMwzXVYNkzoHCc8rcQQ",
+    "name": "Public Bathrooms ",
+    "position": {
+        "x": 1209.2499991254606,
+        "y": 1065.0599994675051
+    }
+}, {
+    "id": "bgn9pwXWyRbBKLosftHNkN",
+    "name": "Public Bathrooms ",
+    "position": {
+        "x": 94.75999995623971,
+        "y": 826.3499997646028
+    }
+}, {
+    "id": "uDXHPR9nxdSATGPkMHgLaq",
+    "name": "Public Bathrooms ",
+    "position": {
+        "x": 849.5600000306995,
+        "y": 886.6399999429163
+    }
+}, {
+    "id": "h7Prdbds4QLvAUNRZ1c96e",
+    "name": "Public Bathrooms ",
+    "position": {
+        "x": 378.8399996938739,
+        "y": 346.84999957005533
+    }
+}, {
+    "id": "pZmJ4AURVNzVR169yMa8hk",
+    "name": "Public Bathrooms ",
+    "position": {
+        "x": 1518.2300004726835,
+        "y": 788.6899999559424
+    }
+}, {
+    "id": "daDyRKZEck5YXkZP1DUVA5",
+    "name": "Public Bathrooms ",
+    "position": {
+        "x": 466.1399999093156,
+        "y": 377.5199994111211
+    }
+}, {
+    "id": "uE9AktdcKiTB7mCFCyBNLi",
+    "name": "Public Bathrooms ",
+    "position": {
+        "x": 1202.8800006507188,
+        "y": 565.3200000535128
+    }
+}, {
+    "id": "nqiuBGJqkXbHdZo7kRUXv8",
+    "name": "Public Bathrooms ",
+    "position": {
+        "x": 1651.680000595597,
+        "y": 427.83999963007216
+    }
+}, {
+    "id": "7hg6Fkw7YwphppHLNt6c3S",
+    "name": "Public Bathrooms ",
+    "position": {
+        "x": 833.4600005112267,
+        "y": 1107.729999956412
+    }
+}, {
+    "id": "wVMzbHWZWxpUB4GxZMD4aL",
+    "name": "Public Bathrooms ",
+    "position": {
+        "x": 849.6299998926982,
+        "y": 635.6099994708279
+    }
+}, {
+    "id": "5WFYfT3ikQyrdNG6o6xUoj",
+    "name": "Public Bathrooms ",
+    "position": {
+        "x": 84.20999947734681,
+        "y": 500.9400005194694
+    }
+}, {
+    "id": "c1LjuXJc2qu5o8jJug8EjY",
+    "name": "Information Gate 3",
+    "position": {
+        "x": 245.92000010221662,
+        "y": 1030.9000001730149
+    }
+}, {
+    "id": "aLnqzs9yJTHY7aDs6h4cfz",
+    "name": "Merchandise Outlet",
+    "position": {
+        "x": 1393.6800006666174,
+        "y": 878.8100006324407
+    }
+}, {
+    "id": "uQgJuaQPaymuD8YHHFRC7Q",
+    "name": "Accessible Bathroom",
+    "position": {
+        "x": 818.6299998014512,
+        "y": 1102.8400002973194
+    }
+}, {
+    "id": "fmVW3V1B4mzwBAa9sg94gE",
+    "name": "Accessible Bathroom",
+    "position": {
+        "x": 753.1599993673253,
+        "y": 496.8200005832345
+    }
+}, {
+    "id": "bzSDntWSJzsJiLqXxFFfmL",
+    "name": "Accessible Bathroom",
+    "position": {
+        "x": 231.6599995821521,
+        "y": 911.679999681671
+    }
+}, {
+    "id": "7DuQnxkgajBiymC4ATmbN1",
+    "name": "Public Bathroom’s",
+    "position": {
+        "x": 728.0299992619186,
+        "y": 460.5900002598809
+    }
+}, {
+    "id": "5sDpbMfYLHrG3ZbeTf8NRd",
+    "name": "Siberia Grandstand ",
+    "position": {
+        "x": 1013.9599992926832,
+        "y": 1108.6699994998219
+    }
+}, {
+    "id": "asUgwxRbA8w2Gsj1Uvkjsw",
+    "name": "Accessible Bathroom ",
+    "position": {
+        "x": 857.3999992850345,
+        "y": 889.7299998950926
+    }
+}, {
+    "id": "ffsAKhsnf1mZzSU1ebZcBe",
+    "name": "Gardiner Grandstand ",
+    "position": {
+        "x": 715.8600006633354,
+        "y": 491.5899999821714
+    }
+}, {
+    "id": "5e1PhxuyUTBwfs4dYDNceF",
+    "name": "Merchandise Outlets ",
+    "position": {
+        "x": 244.39000075434666,
+        "y": 1024.1599994058754
+    }
+}, {
+    "id": "dsKksn2PRw9UWWDNYEUGGB",
+    "name": "Merchandise Outlets ",
+    "position": {
+        "x": 1325.6400005707421,
+        "y": 602.2899995192188
+    }
+}, {
+    "id": "dCp2H2XFrqid9TMLHH5EEm",
+    "name": "Merchandise Outlets ",
+    "position": {
+        "x": 716.7100003010408,
+        "y": 485.14000005673824
+    }
+}, {
+    "id": "iSYP5LQhwbCHDHGTvCTZsj",
+    "name": "Merchandise Outlets ",
+    "position": {
+        "x": 238.86000062358855,
+        "y": 874.2700003743321
+    }
+}, {
+    "id": "rQNwhuAerfRBDZExXjCTbS",
+    "name": "Merchandise Outlets ",
+    "position": {
+        "x": 525.3300006405203,
+        "y": 398.6600004353236
+    }
+}, {
+    "id": "h4bqDDDubEuzdgHgZkuKvy",
+    "name": "Champions Grandstand ",
+    "position": {
+        "x": 126.50999961964973,
+        "y": 805.8600000438364
+    }
+}, {
+    "id": "uhEd5c8GVe8DrWMytHNcbN",
+    "name": "Turn 12 Viewing Mound",
+    "position": {
+        "x": 95.97999965257131,
+        "y": 492.1100005045738
+    }
+}, {
+    "id": "cBM65pShT2zFLaWppWFEdP",
+    "name": "Food and Drink Outlets",
+    "position": {
+        "x": 216.4300004490178,
+        "y": 855.9600003419711
+    }
+}, {
+    "id": "vcqgeXsYrw4siVdg54Jt1d",
+    "name": "Multifaith Prayer Room",
+    "position": {
+        "x": 891.6999997003722,
+        "y": 503.63999942941064
+    }
+}, {
+    "id": "aeXsdnajSvSJ25Lsd56GYF",
+    "name": "Food and Drink Outlets ",
+    "position": {
+        "x": 446.40999966558064,
+        "y": 370.70000056494496
+    }
+}, {
+    "id": "eqbiQwFWjFxtZQeMLhWdf8",
+    "name": "Food and Drink Outlets ",
+    "position": {
+        "x": 747.7999991641084,
+        "y": 482.9500006084534
+    }
+}, {
+    "id": "29QhsU34ypetRykFERtAU4",
+    "name": "Food and Drink Outlets ",
+    "position": {
+        "x": 1009.0599997587237,
+        "y": 547.1100002216804
+    }
+}, {
+    "id": "fcK1vQf6TtwMXsYa57eScL",
+    "name": "Food and Drink Outlets ",
+    "position": {
+        "x": 1281.9200006010226,
+        "y": 618.109999501709
+    }
+}, {
+    "id": "aZf71PWp6bAUPK1aL799Wg",
+    "name": "Food and Drink Outlets ",
+    "position": {
+        "x": 517.2000006444687,
+        "y": 1092.37000063618
+    }
+}, {
+    "id": "1BxxDfNCzmpcqGWz8SceVa",
+    "name": "Food and Drink Outlets ",
+    "position": {
+        "x": 876.4800000221488,
+        "y": 1101.7299996324914
+    }
+}, {
+    "id": "wVdC693DtxTu1QqFpQDQ8i",
+    "name": "Food and drink outlets ",
+    "position": {
+        "x": 1400.3600006317088,
+        "y": 868.1000002298593
+    }
+}, {
+    "id": "cJW9tG3mPrmaN33cbyXRdf",
+    "name": "Food and drink outlets ",
+    "position": {
+        "x": 243.4299997573766,
+        "y": 1017.4600002799872
+    }
+}, {
+    "id": "4ELXue9RFaZDxHt723Q3KT",
+    "name": "Spokes Trackside Lounge",
+    "position": {
+        "x": 956.5300000827884,
+        "y": 569.8500005517418
+    }
+}, {
+    "id": "737YT4dnBFD45gWnUiPg57",
+    "name": "Marveloo Changing Places",
+    "position": {
+        "x": 729.1699996413407,
+        "y": 457.6700001282569
+    }
+}, {
+    "id": "dS1R6fdiXr7XPcghZovEWS",
+    "name": "National Support Paddock",
+    "position": {
+        "x": 786.3400001518739,
+        "y": 614.3500000272039
+    }
+}, {
+    "id": "cjywtzWagkE14nZKPeYARQ",
+    "name": "Bass Straight Grandstand ",
+    "position": {
+        "x": 1460.0800000553584,
+        "y": 811.829999787252
+    }
+}, {
+    "id": "spegqpT4nNBqjktHJHKDzz",
+    "name": "Lukey Heights Grandstand ",
+    "position": {
+        "x": 250.23000053664313,
+        "y": 954.8400001124752
+    }
+}, {
+    "id": "5EHw6GynSgEu2HGUwt9iBv",
+    "name": "Accessible Shuttle Bus Stop A",
+    "position": {
+        "x": 807.9799992570158,
+        "y": 484.0400004526561
+    }
+}, {
+    "id": "kS1LvkyStAwPcjbJa6b3qE",
+    "name": "Accessible Shuttle Bus Stop B",
+    "position": {
+        "x": 1636.0900008587475,
+        "y": 437.7999998295552
+    }
+}, {
+    "id": "cRQ3ZrB69hYudSqC7vQckF",
+    "name": "Accessible Shuttle Bus Stop C",
+    "position": {
+        "x": 1492.1800008675727,
+        "y": 788.259999874189
+    }
+}, {
+    "id": "fLoLM357bHwXAurftWS7gz",
+    "name": "Accessible Shuttle Bus Stop D",
+    "position": {
+        "x": 1000.5699991589571,
+        "y": 1112.6000000957454
+    }
+}, {
+    "id": "6mEapXHZBTTsEQ6ciwPqRG",
+    "name": "Accessible Shuttle Bus Stop E",
+    "position": {
+        "x": 246.15000043684543,
+        "y": 1065.5700002300277
+    }
+}, {
+    "id": "1cwv28WtbYYcAu2MoSiaLc",
+    "name": "Accessible Shuttle Bus Stop F",
+    "position": {
+        "x": 97.93000001124413,
+        "y": 815.1700002407498
+    }
+}, {
+    "id": "ig5JqbRnH3YEhZ55WPNYe9",
+    "name": "Accessible Shuttle Bus Stop G",
+    "position": {
+        "x": 235.26999955778126,
+        "y": 341.0300001274328
+    }
+}, {
+    "id": "3tVLEtHadiKi4oAEGowJn6",
+    "name": "Accessible Shuttle Bus Stop H",
+    "position": {
+        "x": 706.7200005569482,
+        "y": 635.8500002122698
+    }
+}, {
+    "id": "huQg4Ug1d15LV8nQ4FbdBo",
+    "name": "Accessible Shuttle Bus Stop H",
+    "position": {
+        "x": 748.6200004370812,
+        "y": 593.519999364467
+    }
+}, {
+    "id": "2nPHZhB1AVAghRJ2yL7Zkq",
+    "name": "Information Booth Near Gate 1",
+    "position": {
+        "x": 335.2400005383298,
+        "y": 331.0799996878294
+    }
+}, {
+    "id": "gZ6tPYeiGEZo6YbBHKRRzU",
+    "name": "Information Booth Near Gate 7",
+    "position": {
+        "x": 844.9000002862799,
+        "y": 339.51999996135646
+    }
+}, {
+    "id": "qwtWP54CwL2nAX5YWRmEaC",
+    "name": "Information Booth Near Overpass",
+    "position": {
+        "x": 784.6299995827409,
+        "y": 517.6400001852255
+    }
+}]
