@@ -15,7 +15,7 @@ export interface SessionEvent {
     position: Coordinate
 }
 
-export interface FlattenedUserSessionEvent {
+export interface UserSessionVenueEvent {
     userId: string
     startTimeLocal: string
     userTimeUtc: string
@@ -23,7 +23,10 @@ export interface FlattenedUserSessionEvent {
     venueId?: string
 }
 
-export interface SessionEventWithVenue extends SessionEvent {
+export interface UserVenueResult {
+    userId: string
+    lastUserTimeUtc: string
+    timeSpentMs: number
     venueId: string
 }
 
@@ -34,15 +37,6 @@ export interface UserSession {
     endTimeUtc: string
     startTimeLocal: string
     path: SessionEvent[]
-}
-
-export interface UserSessionVenue {
-    userId: string
-    sessionId: string
-    startTimeUtc: string
-    endTimeUtc: string
-    startTimeLocal: string
-    path: (SessionEventWithVenue | null)[]
 }
 
 export interface Venue {
