@@ -17,6 +17,8 @@ export interface SessionEvent {
 
 export interface UserSessionVenueEvent {
     userId: string
+    startTimeUtc: string
+    endTimeUtc: string
     startTimeLocal: string
     userTimeUtc: string
     position: Coordinate
